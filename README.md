@@ -8,5 +8,5 @@ format `github_document`.
 
 ## Installation
 
-Run `devtools::install_github("per-rpo")` to install this package
-locally.
+Run `devtools::install_github("LooseEdward/per-rpo")` to install this
+package locally.
