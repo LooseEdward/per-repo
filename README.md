@@ -10,3 +10,9 @@ format `github_document`.
 
 Run `devtools::install_github("LooseEdward/per-rpo")` to install this
 package locally.
+
+## Usage
+
+Code looks like this: $\alpha+1+\frac{3}{\tau}$, or
+
+$$e^{-\beta}.$$
